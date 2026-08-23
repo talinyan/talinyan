@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Trayden Boucher.
-* 📖 I'm currently a 4rd-year studying at Queen's University towards a Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
+* 📖 I'm a Queen's University graduate with a Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
 * 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com.
 
 ### Technologies 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
